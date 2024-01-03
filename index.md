@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Manipal Institute of Technology
 tags: example-tag
 region: Asia
+country: India
 meetup-group:
 
 ---
