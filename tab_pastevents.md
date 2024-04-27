@@ -8,10 +8,35 @@ tags: owaspmit
 
 ---
 
+### Decoding Cybersecurity
+
+- **Date:** 12th April 2024
+- **Time:** 16:45 - 18:00 (IST)
+- **Venue:** Room 207, Academic Block 4, MAHE Bengaluru
+
+**Description:**
+
+Embark on a captivating journey into cybersecurity innovation at "Cipher Quest: Decoding Cybersecurity".  This immersive event promises profound discovery, unraveling cybercrime puzzles and delving into threat modeling in our ever-evolving digital landscape.
+
+
+Prepare for real-world challenges, unveiling essential strategies against sophisticated cyber-attacks. Get ready for an exhilarating adventure of cryptographic puzzles and digital defense.
+
+
+Are you prepared to decode the future of digital safety? Join us and be part of this extraordinary quest!
+Embark on a captivating journey into cybersecurity innovation at "Cipher Quest: Decoding Cybersecurity".  This immersive event promises profound discovery, unraveling cybercrime puzzles and delving into threat modeling in our ever-evolving digital landscape.
+
+
+Prepare for real-world challenges, unveiling essential strategies against sophisticated cyber-attacks. Get ready for an exhilarating adventure of cryptographic puzzles and digital defense.
+
+
+Are you prepared to decode the future of digital safety? Join us and be part of this extraordinary quest!
+
+
+
 ### MANUS x MACHINA - (Part of College Fest)
 
 - **Date:** 5th & 6th April 2024
-- **Time:** 10:00 AM - 5:00 PM (IST)
+- **Time:** 10:00 - 17:00 (IST)
 - **Venue:** Near Gate 1, MAHE Bengaluru
 
 **Description:**
@@ -20,8 +45,8 @@ The tech fest stall, organized by Null-OWASP MIT-BLR in collaboration with Close
 
 **Social Updates:**
 
-- LinkedIn - Stay tuned for Updates!
-- Instagram - Stay tuned for Updates!
+- LinkedIn - [Post Event Recap](https://www.linkedin.com/posts/owasp-mit-blr_cyberrockstars-nexsusmit-nullandowasp-activity-7184488755804745728-ck6s)
+- Instagram - [Post Event Recap](https://www.instagram.com/p/C5oLRG4S0HT)
 
 
 
