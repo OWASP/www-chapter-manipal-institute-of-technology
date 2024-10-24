@@ -8,6 +8,64 @@ tags: owaspmit
 
 ---
 
+### Git&Hub
+
+- **Date:** 15th & 16th October 2024
+- **Time:** 16:45 - 18:00 (IST)
+- **Venue:** Room 310, Academic Block 4, MAHE Bengaluru
+
+**Description:**
+
+This event is designed specifically for students to help then kick-off their development journey by learn the essentials of version control and Git.
+
+In this hands-on session, we aim to cover:
+- The fundamentals of Git and version control
+- How to create and manage repositories (and host them on GitHub)
+- Essential commands and workflows
+- Few advanced concepts like Forking, Branching, Pull Requests and Merging
+
+Our speakers will guide you through both basic and advanced Git workflows, making sure you're equipped to handle version control in real-world scenarios.
+
+**Social Updates:**
+
+- LinkedIn - [Post Event Recap](https://www.linkedin.com/posts/owasp-mit-blr_workshopsuccess-gitandgithub-freshersbatch-activity-7254715080519438336-i3jw)
+- Instagram - [Post Event Recap](https://www.instagram.com/p/DBZcgSUNXgA/)
+
+
+
+### Git&Hub - Helpdesk Day
+
+- **Date:** 14th October 2024
+- **Time:** 16:45 - 18:00 (IST)
+- **Venue:** Room 310, Academic Block 4, MAHE Bengaluru
+
+**Description:**
+
+Having trouble setting up Git or GitHub? Don't worry! Join us a day before the main event for the **Git&Hub Helpdesk Day**. Our team will be available to help you get all the prerequisites sorted, so you can focus on learning during the workshop.
+
+We are there to assist with:
+- Git installation issues
+- GitHub account creation
+- General troubleshooting
+
+
+
+### Chapter Orientation 
+
+- **Date:** 14th October 2024
+- **Time:** 16:45 - 18:00 (IST)
+- **Venue:** Dr. Ramdas M Pai Convention Centre, MAHE Bengaluru
+
+**Description:**
+
+The Null OWASP chapter orientation for first-year students at Manipal Bangalore highlights meetups, engaging student projects, hands-on workshops, and various activities. These initiatives encourage collaboration and skill development, showcasing opportunities to work on real-world security challenges, network with peers, and enhance cybersecurity knowledge, motivating students to join the chapter in its future endeavors.
+
+**Social Updates:**
+
+- LinkedIn - [Post Event Recap](https://www.linkedin.com/posts/owasp-mit-blr_mitbengaluru-owaspstudentchapter-nullchapter-activity-7252276149320327168-x1nw)
+- Instagram - [Post Event Recap](https://www.instagram.com/p/DBV-z4TthuW)
+
+
 ### Decoding Cybersecurity
 
 - **Date:** 12th April 2024

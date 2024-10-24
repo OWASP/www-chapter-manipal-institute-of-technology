@@ -8,37 +8,18 @@ tags: owaspmit
 
 ---
 
-### Git&Hub - Helpdesk Day
+### SecOps Stories: Insights for Aspiring Cybersecurity Analysts
 
-- **Date:** 14th October 2024
+- **Date:** 25th October 2024
 - **Time:** 16:45 - 18:00 (IST)
 - **Venue:** Room 310, Academic Block 4, MAHE Bengaluru
 
 **Description:**
 
-Having trouble setting up Git or GitHub? Don't worry! Join us a day before the main event for the **Git&Hub Helpdesk Day**. Our team will be available to help you get all the prerequisites sorted, so you can focus on learning during the workshop.
+We are pleased to invite you to an exciting and interactive Guest Speaker Session on 25th October 2024, where you will have the unique opportunity to learn firsthand about the dynamic role of a SOC Analyst. This session will be highly enriching for everyone, from first-year students with no prior experience to fourth-year students actively seeking jobs in cybersecurity!
 
-We are there to assist with:
-- Git installation issues
-- GitHub account creation
-- General troubleshooting
+Our guest speaker, Mr. Krunal Mahant,  Sr. SOC Analyst from CyFlare, a globally recognized Top 20 Managed Security Service Provider (MSSP) based in the USA. During the session he will be sharing:
+A demonstration of the day-to-day activities of a SOC Analyst.
+Insights on what is expected from freshers entering the cybersecurity domain.
 
-
-
-### Git&Hub
-
-- **Date:** 15th & 16th October 2024
-- **Time:** 16:45 - 18:00 (IST)
-- **Venue:** Room 310, Academic Block 4, MAHE Bengaluru
-
-**Description:**
-
-This event is designed specifically for students to help then kick-off their development journey by learn the essentials of version control and Git.
-
-In this hands-on session, we aim to cover:
-- The fundamentals of Git and version control
-- How to create and manage repositories (and host them on GitHub)
-- Essential commands and workflows
-- Few advanced concepts like Forking, Branching, Pull Requests and Merging
-
-Our speakers will guide you through both basic and advanced Git workflows, making sure you're equipped to handle version control in real-world scenarios.
+This session will also provide you with an excellent chance to ask any questions you may have regarding career paths, the SOC role, or the broader cybersecurity industry.
