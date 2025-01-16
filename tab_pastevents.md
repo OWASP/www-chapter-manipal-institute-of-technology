@@ -7,6 +7,41 @@ order: 3
 tags: owaspmit
 
 ---
+### Intro to Kali
+
+- **Date:** 8th January 2024
+- **Time:** 16:45 - 18:00 (IST)
+- **Venue:** Room 310, Academic Block 4, MAHE Bengaluru
+
+**Description:**
+
+This event was designed for college students eager to dive into the world of ethical hacking and cybersecurity. The session covered the basics of Linux, teaching foundational commands to build a strong technical base. Participants explored Kali Linux's powerful tools, with live demonstrations showcasing their application in real-world scenarios. From network scanning to vulnerability assessments, this hands-on workshop provided an exciting glimpse into the capabilities of Kali Linux and its role in cybersecurity
+
+**Social Updates:**
+
+- LinkedIn - [Post Event Recap](https://www.linkedin.com/posts/owasp-mit-blr_cybersecurity-kalilinux-nullcommunity-activity-7284099771118563328-7vAK)
+- Instagram - [Post Event Recap](https://www.instagram.com/p/DE2quWuNEKQ/)
+
+## 2024
+
+### SecOps Stories
+
+- **Date:** 15th October 2024
+- **Time:** 16:30 - 17:30 (IST)
+- **Venue:** Room 310, Academic Block 4, MAHE Bengaluru
+
+**Description:**
+
+Join us for an exclusive **Guest Speaker Session** with **Mr. Krunal Mahant**, Sr. SOC Analyst at CyFlare (Top 20 MSSP globally). Gain firsthand insights into the cybersecurity industry, watch a live demo of a SOC Analyst’s daily work, and discover what freshers need to know to kickstart their careers in cybersecurity.  
+
+Don't miss this opportunity to ask questions and explore the exciting world of SOC roles and cybersecurity!
+
+**Social Updates:**
+
+- LinkedIn - [Post Event Recap](https://www.linkedin.com/posts/owasp-mit-blr_event-recap-secops-by-krunal-mahant-activity-7257292826973986816-lbjS)
+- Instagram - [Post Event Recap](https://www.instagram.com/p/DBwU7nWzshX/)
+
+
 
 ### Git&Hub
 
