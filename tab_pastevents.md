@@ -7,9 +7,47 @@ order: 3
 tags: owaspmit
 
 ---
+## 2025
+
+### Crack Code
+
+- **Date:** 5th February 2025
+- **Time:** 16:30 - 18:30 (IST)
+- **Venue:** Lab 412, Academic Block 4, MAHE Bengaluru
+
+**Description:**
+
+The "CRACK CODE" workshop provided an introduction to ethical hacking and password cracking techniques, focusing on using Hashcat on Kali Linux.
+* The workshop covered various methods like brute force and dictionary attacks.
+* Hands-on with Hashcat: Using Hashcat on Kali Linux, attendees practiced cracking password hashes, gaining practical experience in real-world password cracking scenarios.
+
+**Social Updates:**
+
+- LinkedIn - Will be Posted Soon
+- Instagram - Will be Posted Soon
+
+
+
+### Phishing for Answers: The Digital Domino Effect
+
+- **Date:** 3rd February 2025
+- **Time:** 16:00 - 18:30 (IST)
+- **Venue:** Seminar Hall 108, Academic Block 5, MAHE Bengaluru
+
+**Description:**
+
+Live recording of a podcast episode "Phishing for Answers: The Digital Domino Effect" with Aarushi Koolwal, a Risk Analyst (Security Engineering) at PhonePe (previously a Security Analyst at Cloudsek). The session focused on recent cyber attacks, vulnerabilities, data privacy concerns in everyday apps, and provided valuable career insights into the field of cybersecurity.
+
+**Social Updates:**
+
+- LinkedIn - Will be Posted Soon
+- Instagram - Will be Posted Soon
+
+
+
 ### Intro to Kali
 
-- **Date:** 8th January 2024
+- **Date:** 8th January 2025
 - **Time:** 16:45 - 18:00 (IST)
 - **Venue:** Room 310, Academic Block 4, MAHE Bengaluru
 
