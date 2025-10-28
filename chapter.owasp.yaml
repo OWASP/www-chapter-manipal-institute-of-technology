@@ -1,0 +1,29 @@
+leaders:
+  - name: Dr. Vishnu Srinivasa Murthy Y
+    email: vishnu.murthy@owasp.org
+  - name: Abhigyan Tripathi
+    email: abhigyan.tripathi@owasp.org
+  - name: Jeevan Shaju John
+    email: jeevanshaju.john@owasp.org
+  - name: Raghav Gupta
+    email: raghav.gupta@owasp.org
+    github: Alphaspiderman
+  - name: Sri Sai Satya Sraya Ravuri
+    email: sraya.ravuri@owasp.org
+location:
+  country: India
+  country_code: IN
+  region: Karnataka
+  city: Manipal
+  latitude: 13.34637185
+  longitude: 74.79432463041003
+name: OWASP Manipal Institute of Technology
+repositories:
+  - name: www-chapter-manipal-institute-of-technology
+    url: https://github.com/OWASP/www-chapter-manipal-institute-of-technology
+    description: OWASP Foundation Web Repository
+tags:
+  - owaspmit
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-manipal-institute-of-technology
